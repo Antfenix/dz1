@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="zd1.h">
+    <ClInclude Include="zd3.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="zd3.h">
+    <ClInclude Include="zd1.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
